@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the C language
 - 🌱 I’m currently learning internet engineer
 - 💞️ I’m looking to collaborate on only school
-- 📫 How to reach me ...,i think you don not need it.
+- 📫 How to reach me ...,i think you do not need it.
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: nothing
 
